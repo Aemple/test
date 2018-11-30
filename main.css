@@ -1,0 +1,16 @@
+#xx {
+   width: 200px;
+   height: 200px;
+   background: rebeccapurple;
+}
+#yy {
+    width: 200px;
+    height: 200px;
+    background: red;
+}
+
+#zz {
+    width: 100px;
+    height: 100px;
+    background: rgb(29, 22, 22);
+}
